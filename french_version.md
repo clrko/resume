@@ -1,5 +1,7 @@
 # Présentation
 
+![](./profilepic.jpg)
+
 ## A propos de moi 
 
 Après un Master en management et 4 ans d’expérience dans divers métiers de la finance, je me reconvertis dans le developpement Web.
